@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- UI developer
+- Working on Javascript
+- Working experiance of PHP, Joomla, Worpress, CSS, SCSS, SASS, Angular Material, Basic Angular JS, Flutter
+
 ![Bindiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bindiya-kundaliya&hide=contribs,prs)
 <!--
 **bindiya-kundaliya/bindiya-kundaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
