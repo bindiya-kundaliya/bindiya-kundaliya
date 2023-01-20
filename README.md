@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - UI developer
-- Working on Javascript
-- Working experiance of PHP, Joomla, Worpress, CSS, SCSS, SASS, Angular Material, Basic Angular JS, Flutter
+- Working experiance of Javascript, HTML5, PHP, Joomla, Worpress, CSS, SCSS, SASS, Angular Material, Basic Angular JS, Flutter
 
 ![Bindiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bindiya-kundaliya&hide=contribs,prs)
 <!--
